@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # shellcheck disable=SC2034
 
-iso_name="cachyos"
+iso_name="eddie_does_cachyos"
 iso_label="COS_$(date +%y%m)"
 iso_publisher="CachyOS <https://cachyos.org>"
 iso_application="CachyOS Live/Rescue CD"
