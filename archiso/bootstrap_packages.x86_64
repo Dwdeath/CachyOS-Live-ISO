@@ -2,4 +2,4 @@ arch-install-scripts
 base
 
 # Custom packages
-rtl88x2bu-cilynx-dkms-git
+pre_install = rtl88x2bu-cilynx-dkms-git
